@@ -1,7 +1,7 @@
 import requests
 from lxml import etree
 
-link = input('输入要下载的梨视频了链接：')
+link = input('输入要下载的梨视频链接：')
 resp = requests.get(link)
 resp.close
 
