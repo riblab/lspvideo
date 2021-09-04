@@ -5,6 +5,6 @@
 #### Python 自带模块 ：Request｜Xpath
 
 #### 使用 :
-         https://github.com/riblab/lspvideo.git
+         git clone https://github.com/riblab/lspvideo.git
          
 
